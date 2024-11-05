@@ -7,37 +7,37 @@ $today = date('c'); // The 'c' format gives the date in ISO 8601, which is suita
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://tinpattimasterapk.in</loc>
+        <loc>https://teen-patti-master-site.pages.dev</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://tinpattimasterapk.in/latest-teen-patti-master-app.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/latest-teen-patti-master-app.html</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://tinpattimasterapk.in/faq.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/faq.html</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://tinpattimasterapk.in/about.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/about.html</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://tinpattimasterapk.in/privacy-policy.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/privacy-policy.html</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://tinpattimasterapk.in/terms-conditions.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/terms-conditions.html</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://tinpattimasterapk.in/contactus.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/contactus.html</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.5</priority>
     </url>

@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 # Link to the sitemap
-Sitemap: https://tinpattimasterapk.in/sitemap.xml.php
+Sitemap: https://teen-patti-master-site.pages.dev/sitemap.xml.php
