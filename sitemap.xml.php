@@ -12,32 +12,32 @@ $today = date('c'); // The 'c' format gives the date in ISO 8601, which is suita
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://teen-patti-master-site.pages.dev/latest-teen-patti-master-app.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/latest-teen-patti-master-app</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://teen-patti-master-site.pages.dev/faq.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/faq</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://teen-patti-master-site.pages.dev/about.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/about</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://teen-patti-master-site.pages.dev/privacy-policy.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/privacy-policy</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://teen-patti-master-site.pages.dev/terms-conditions.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/terms-conditions</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://teen-patti-master-site.pages.dev/contactus.html</loc>
+        <loc>https://teen-patti-master-site.pages.dev/contactus</loc>
         <lastmod><?php echo $today; ?></lastmod>
         <priority>0.5</priority>
     </url>
