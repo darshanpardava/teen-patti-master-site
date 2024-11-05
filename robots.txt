@@ -1,0 +1,6 @@
+# Allow all user agents to crawl the website
+User-agent: *
+Disallow:
+
+# Link to the sitemap
+Sitemap: https://tinpattimasterapk.in/sitemap.xml.php
